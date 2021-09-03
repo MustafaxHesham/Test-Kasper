@@ -336,7 +336,7 @@ header .landing-text::before {
     background-size: cover;
     transition: 200ms all linear;
 }
-.picture:hover .the-back:hover{
+.picture:hover .the-back{
     transform:  translateZ(50px) rotateZ(5deg);
 }
 .images .picture:first-child .the-back{
